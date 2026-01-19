@@ -11,9 +11,7 @@ Example
 list1 = [1, 2, 3, 4]
 list2 = [3, 4, 5, 6]
 
-
 Output:
-
 [3, 4]
 
 ✅ Code Explanation

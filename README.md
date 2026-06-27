@@ -57,5 +57,4 @@ Handle duplicate elements
 Take user input
 
 👨‍💻 Author
-
 Pranay Jadhao
